@@ -1,1 +1,1 @@
-***This is the repository which contains lots of useful code snippets for C.***
+***This is the repository which contains lots of useful code snippets for C/C++ languages.***
